@@ -92,7 +92,7 @@ Advanced-Algorithms-Assignment/
 │
 ├── README.md
 │
-├── Question_1_Hashing/
+├── Question 1/
 │   ├── Question_1.py
 │   ├── README.md
 │   ├── data/
@@ -106,7 +106,7 @@ Advanced-Algorithms-Assignment/
 │       ├── models.py
 │       └── performance.py
 │
-├── Question_2_Divide_Conquer/
+├── Question 2/
 │   ├── Question_2.py
 │   ├── README.md
 │   ├── data/
@@ -121,7 +121,7 @@ Advanced-Algorithms-Assignment/
 │       ├── search.py
 │       └── transaction_system.py
 │
-└── Question_3_Concurrent_Process/
+└── Question 3/
     ├── Question_3.py
     ├── README.md
     ├── sample_output.txt
