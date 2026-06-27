@@ -212,13 +212,13 @@ This assignment applies the following Python concepts:
 
 | Question   | Algorithm / Data Structure     | Purpose                              |
 | ---------- | ------------------------------ | ------------------------------------ |
-| Question 1 | Hash Table with Linear Probing | Fast medicine search                 |
-| Question 1 | One-Dimensional Array Search   | Performance comparison               |
-| Question 2 | Merge Sort                     | Sorting transaction records          |
-| Question 2 | Binary Search                  | Searching sorted transaction records |
-| Question 2 | Linear Search                  | Searching comparison                 |
-| Question 3 | Factorial Algorithm            | CPU-bound calculation task           |
-| Question 3 | Multithreading                 | Concurrent execution experiment      |
+|     1      | Hash Table with Linear Probing | Fast medicine search                 |
+|     1      | One-Dimensional Array Search   | Performance comparison               |
+|     2      | Merge Sort                     | Sorting transaction records          |
+|     2      | Binary Search                  | Searching sorted transaction records |
+|     2      | Linear Search                  | Searching comparison                 |
+|     3      | Factorial Algorithm            | CPU-bound calculation task           |
+|     3      | Multithreading                 | Concurrent execution experiment      |
 
 
 ## Author
