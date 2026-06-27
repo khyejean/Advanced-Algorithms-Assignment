@@ -1,0 +1,21 @@
+transaction_id,customer_name,product_name,amount,transaction_date
+T1015,Amanda Lee,Wireless Mouse,59.90,2026-01-15
+T1003,Brandon Tan,Bluetooth Speaker,129.50,2026-01-03
+T1019,Chloe Wong,Running Shoes,220.00,2026-02-01
+T1001,Daniel Lim,USB-C Cable,25.90,2026-01-01
+T1011,Elena Goh,Smart Watch,399.00,2026-01-11
+T1007,Farhan Aziz,Phone Case,35.00,2026-01-07
+T1018,Grace Yap,Laptop Stand,89.90,2026-01-25
+T1005,Haziq Rahman,Power Bank,115.00,2026-01-05
+T1013,Ivy Chen,Desk Lamp,75.50,2026-01-13
+T1009,Jason Ong,Keyboard,149.90,2026-01-09
+T1020,Kavita Nair,External SSD,329.00,2026-02-03
+T1002,Louis Ho,Webcam,99.00,2026-01-02
+T1016,Mei Ling,Backpack,139.90,2026-01-18
+T1008,Nadia Ismail,Earbuds,189.00,2026-01-08
+T1014,Oscar Teh,Tablet Cover,49.90,2026-01-14
+T1004,Priya Kumar,HDMI Adapter,32.50,2026-01-04
+T1017,Qistina Noor,Monitor,699.00,2026-01-20
+T1010,Ryan Chua,Office Chair,459.00,2026-01-10
+T1006,Siti Aminah,Water Bottle,28.90,2026-01-06
+T1012,Victor Lee,Graphic Tablet,259.00,2026-01-12
