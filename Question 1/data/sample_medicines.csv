@@ -1,0 +1,16 @@
+medicine_id,name,category,dosage,stock_quantity,price,expiry_date
+M001,Paracetamol,Tablet,500mg,120,5.50,2027-06-30
+M002,Amoxicillin,Capsule,250mg,80,12.00,2026-12-15
+M003,Cough Syrup,Syrup,100ml,45,8.90,2026-09-20
+M004,Vitamin C,Supplement,1000mg,100,15.50,2028-03-10
+M005,Antacid,Tablet,250mg,75,6.40,2027-01-25
+M006,Ibuprofen,Tablet,400mg,90,9.80,2026-11-05
+M007,Eye Drops,Liquid,10ml,35,7.20,2026-08-18
+M008,Loratadine,Tablet,10mg,60,11.30,2027-04-12
+M009,ORS Sachet,Powder,5g,150,1.20,2028-07-01
+M010,Insulin Pen,Injection,3ml,20,45.00,2026-10-30
+M011,Calcium Tablet,Supplement,600mg,95,18.70,2027-09-15
+M012,Nasal Spray,Spray,15ml,40,13.90,2026-12-01
+M013,Multivitamin,Supplement,30 tablets,65,22.50,2028-05-22
+M014,Antiseptic Cream,Cream,25g,55,10.60,2027-02-14
+M015,Thermometer,Device,Digital,25,28.90,2029-01-10
